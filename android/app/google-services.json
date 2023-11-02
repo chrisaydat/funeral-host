@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "642529256724",
+    "project_id": "funeralhostmobileapp",
+    "storage_bucket": "funeralhostmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642529256724:android:0982b385493ce5d2ec0e01",
+        "android_client_info": {
+          "package_name": "com.mycompany.funeralhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642529256724-lvdim096ivr76p07q2rj0luuirj1mhre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.funeralhost",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "642529256724-hb0iqn4736davovv4ih9frdene28f49i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeiMM4WyeMvfAk62Cxq5VCgRq-c1McigQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642529256724-hb0iqn4736davovv4ih9frdene28f49i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642529256724-dqmmd5604ha1ni9k01n1114tovoudiob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.funeralhost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
